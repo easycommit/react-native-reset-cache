@@ -1,0 +1,22 @@
+{
+  "name": "@easycommit/react-native-reset-cache",
+  "version": "1.0.0",
+  "description": "a command line tool to reset the cache and reinstall dependencies on react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "metro",
+    "reset",
+    "cache",
+    "android",
+    "ios"
+  ],
+  "author": "Victor Martins",
+  "license": "MIT",
+  "dependencies": {
+    "np": "^7.4.0"
+  }
+}
